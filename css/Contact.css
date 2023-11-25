@@ -38,4 +38,5 @@ body>div:nth-child(2)>h2{
 }
 .footer_line{
     line-height: 20px;
+    display: block;
 }
