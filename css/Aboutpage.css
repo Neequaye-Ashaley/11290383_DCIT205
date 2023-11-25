@@ -1,0 +1,64 @@
+.About_picture{
+    background-color: rgb(9,13,33);
+    height: 300px;
+}
+
+.About_picture>p:nth-child(1){
+    color: white;
+    font-size: 60px;
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 1px;
+
+}
+.About_picture>P:nth-child(2){
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 0;
+}
+.Welcome_talk>h1{
+    text-align: center;
+    font-size: 50px
+}
+.Welcome_talk>p>{
+    line-height: 1px;
+    width: 50px;
+}
+
+.About_content1{
+    display: inline;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.About_content1>div:nth-child(1){
+    width: 50%;
+    margin: 10px;
+    height: 200px;
+    line-height: 35px;
+    font-size: larger;
+ 
+}
+.About_content1>div:nth-child(2){
+    background-image: url(../images/Forest\ picture.jpg);
+    background-size: cover;
+    width: 50%;
+    margin: 10px;
+    height: 350px;  
+}
+.About_content2{
+    display: inline;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.About_content3{
+    display: inline;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+hr{
+    color: brown;
+}

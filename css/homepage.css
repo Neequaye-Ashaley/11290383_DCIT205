@@ -53,8 +53,8 @@
 
 
 body{
-    background-image: url(../images/BACKGROUND\ 2.webp);
-    
+    background: lightblue;
+    background-size: contain;   
 }
 
 .body_content{
