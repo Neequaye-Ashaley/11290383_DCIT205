@@ -62,3 +62,32 @@
 hr{
     color: brown;
 }
+.About_content2>div:nth-child(1){
+    background-image: url(../images/BACKGROUND.jpg);
+    background-size: cover;
+    width: 50%;
+    margin: 10px;
+    height: 350px;  
+}
+.About_content2>div:nth-child(2){
+    width: 50%;
+    margin: 10px;
+    height: 200px;
+    line-height: 35px;
+    font-size: larger;
+}
+.About_content3>div:nth-child(1){
+    width: 50%;
+    margin: 10px;
+    height: 200px;
+    line-height: 35px;
+    font-size: larger;
+
+}
+.About_content3>div:nth-child(2){
+    background-image: url(../images/g7.avif);
+    background-size: cover;
+    width: 50%;
+    margin: 10px;
+    height: 350px;
+}
