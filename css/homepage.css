@@ -53,8 +53,8 @@
 
 
 body{
-    background: lightblue;
-    background-size: contain;   
+    background-image: url(../images/FINAL\ BACKGROUND\ PHOTO.jpg); 
+    background-size: cover;
 }
 
 .body_content{
@@ -88,23 +88,9 @@ body{
     font-size: xx-large;
     border-radius: 17px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.navbar_1>div:nth-child(1)>img{
+    height: 100px;
+}
 
 
 
