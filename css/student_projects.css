@@ -1,0 +1,34 @@
+.Projects_picture{
+    background-color: rgb(9,13,33);
+    height: 300px;
+}
+
+.Projects_picture>p:nth-child(1){
+    color: white;
+    font-size: 60px;
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 1px;
+
+}
+.Projects_picture>P:nth-child(2){
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 0;
+}
+.Projects_card_row{
+    display: flex;
+}
+.Projects_card{
+    display: inline;
+    width: 50%;
+    padding: 70px;
+}
+.Projects_card>div:nth-child(1){
+    height: 287px;
+    background-color: gray;
+}
+.Projects_card>div:nth-child(2)>p{
+    font-size: 25px;
+}
