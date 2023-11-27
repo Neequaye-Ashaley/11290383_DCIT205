@@ -1,5 +1,5 @@
 .News_picture{
-    background-color: rgb(9,13,33);
+    background-image: url(../images/BIN.jpg);
     height: 300px;
 }
 
@@ -31,4 +31,32 @@
 }
 .news_card>div:nth-child(2)>p{
     font-size: 25px;
+}
+.passage1{
+    margin-top: 73px;
+    
+}
+.news_card1>div:nth-child(1)>img{
+    height: 438px;
+}
+.passage2{
+    width: 900px;
+    font-size: 25px;
+}
+.news_card11>div>img{
+    height: 438px;
+}
+.passage3{
+    width: 900px;
+    font-size: 25px;
+}
+.passage4{
+    margin-top: 240px;
+    width: 587px;
+}
+.news_card>div:nth-child(1)>img{
+    height: 438px;
+}
+body{
+    background-image: none;
 }

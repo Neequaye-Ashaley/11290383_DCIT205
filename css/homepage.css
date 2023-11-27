@@ -53,7 +53,7 @@
 
 
 body{
-    /* background-image: url(../images/FINAL\ BACKGROUND\ PHOTO.jpg);  */
+    background-image: url(../images/FINAL\ BACKGROUND\ PHOTO.jpg); 
     background-size: cover;
 }
 
@@ -86,8 +86,8 @@ body{
     justify-content: space-between;
     background-color: rgb(43,53,62);
     font-size: xx-large;
-    border-radius: 17px;
-    color: black;
+    border-radius: 60px;
+    color: white;
 }
 .navbar_1>div:nth-child(1)>img{
     height: 100px;

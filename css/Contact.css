@@ -40,3 +40,6 @@ body>div:nth-child(2)>h2{
     line-height: 20px;
     display: block;
 }
+body{
+    background-image: none;
+}

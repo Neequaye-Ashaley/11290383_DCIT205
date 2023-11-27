@@ -49,3 +49,6 @@ body>h1{
     font-size: xx-large;
     color: blueviolet;
 }
+body{
+    background-image: none;
+}

@@ -42,7 +42,7 @@
  
 }
 .About_content1>div:nth-child(2){
-    background-image: url(../images/Forest\ picture.jpg);
+    background-image: url(../images/Department\ pic.jpg);
     background-size: cover;
     width: 50%;
     margin: 10px;
@@ -91,4 +91,7 @@ hr{
     width: 50%;
     margin: 10px;
     height: 350px;
+}
+body{
+    background-image: none;
 }

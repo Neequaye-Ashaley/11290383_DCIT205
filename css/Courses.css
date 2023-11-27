@@ -83,3 +83,6 @@ body>p{
     vertical-align: top;
     margin-bottom: -96px;
 }
+body{
+    background-image: none;
+}

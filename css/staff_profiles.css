@@ -31,3 +31,6 @@
 .staff_list>div>img, .staff_list>div>p:nth-child(3){
     display: none;
 }
+body{
+    background-image: none;
+}

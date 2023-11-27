@@ -32,3 +32,6 @@
 .Projects_card>div:nth-child(2)>p{
     font-size: 25px;
 }
+body{
+    background-image: none;
+}
