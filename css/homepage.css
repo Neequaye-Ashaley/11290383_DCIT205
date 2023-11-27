@@ -89,6 +89,10 @@ body{
     border-radius: 60px;
     color: white;
 }
+
+.footer a{
+    color: white;
+}
 .navbar_1>div:nth-child(1)>img{
     height: 100px;
 }
