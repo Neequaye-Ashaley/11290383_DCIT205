@@ -1,0 +1,45 @@
+body>div:nth-child(2){
+    background-image: url(../images/Contact\ PIC.jpg);
+    height: 500PX;
+    background-size: contain;
+    text-align: center;
+    font-size: xx-large;
+
+}
+body>div:nth-child(2)>h1{
+    color: white;
+    text-shadow: 10px 5px 10px rgb(21,61,111);
+    text-decoration: underline;   
+}
+body>div:nth-child(2)>h2{
+    color: black ;
+    font-size: larger;
+}
+.contact_body{
+    display: flex;
+    flex-direction: row;
+
+}
+.contact_body>div:nth-child(1){
+    width: 900px;
+    height: 500px;
+    font-size: xx-large;
+    margin: 3px;
+    background-color: yellow;
+
+}
+.contact_body>div:nth-child(2){
+    width: 900px;
+    height: 500px;
+    font-size: xx-large;
+    margin: 3px;
+    background-color: brown;
+    
+}
+.footer_line{
+    line-height: 20px;
+    display: block;
+}
+body{
+    background-image: none;
+}

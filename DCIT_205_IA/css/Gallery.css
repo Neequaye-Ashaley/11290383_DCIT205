@@ -1,0 +1,57 @@
+body>h1{
+    color: white;
+    font-size: 60px;
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 1px;
+}
+.GLine1{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.Gline11>p{
+    font-size: xx-large;
+    color: blueviolet;
+}
+.Gline11>div>img{
+    height: 600px;
+    margin: 50px;
+    padding-left: 10px;
+}
+.Gline2{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.Gline21>div>img{
+    height: 600px;
+    margin: 50px;
+    padding-left: 10px;
+}
+.Gline21>p{
+    font-size: xx-large;
+    color: blueviolet;
+}
+.Gline3{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+
+.Gline31>div>img{
+    height: 600px;
+    margin: 50px;
+    padding-left: 10px;
+}
+
+.Gline31>p{
+    font-size: xx-large;
+    color: blueviolet;
+}
+body{
+    background-image: none;
+}
+body img{
+    box-shadow: 0px 25px 30px rgb(0, 0, 0, 0.5);
+}
