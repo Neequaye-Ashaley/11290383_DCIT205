@@ -1,21 +1,25 @@
 .Projects_picture{
     background-color: rgb(9,13,33);
     height: 300px;
+    box-shadow:  10px 5px 10px rgb(21,61,111);
+    color:  rgb(9,13,33);
+    background-image: url(../images/FINAL\ BACKGROUND\ PHOTO.jpg);
 }
 
 .Projects_picture>p:nth-child(1){
-    color: white;
+    color:  rgb(9,13,33);
     font-size: 60px;
     text-decoration: underline;
     text-align: center;
     margin-bottom: 1px;
+    text-shadow:  10px 5px 10px rgb(21,61,111);
 
 }
 .Projects_picture>P:nth-child(2){
-    color: white;
     text-align: center;
     font-size: 100px;
     margin-top: 0;
+    text-shadow:  10px 5px 10px rgb(21,61,111);
 }
 .Projects_card_row{
     display: flex;

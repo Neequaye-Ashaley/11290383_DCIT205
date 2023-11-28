@@ -6,6 +6,9 @@
     align-items: center;
     background-color:rgb(184,195,196) ;
 }
+.navbar_1>div>img{
+    box-shadow: 0px 25px 30px rgb(0, 0, 0, 0.5);
+}
 .navbar_2{
     display: flex;
     flex-direction: row;
@@ -70,13 +73,13 @@ body{
 }
 .body_content2{
     display: flex;
-    justify-content: center;
     color: rgb(5, 7, 1);
     padding-top: 100px;
-    font-size: 50px;
+    font-size: 25px;
     font-weight: 500;
-    margin-top: 5px;
+    margin-top: -75px;
     width: 900px;
+    text-align: center;
 
 }
 
@@ -88,14 +91,37 @@ body{
     font-size: xx-large;
     border-radius: 60px;
     color: white;
+    box-shadow: 10px 25px 30px rgb(0, 0, 0, 0.5)
+
 }
 
 .footer a{
     color: white;
+    box-shadow: 0px 25px 30px rgb(0, 0, 10, 0.5);
 }
 .navbar_1>div:nth-child(1)>img{
     height: 100px;
 }
-
-
+.filbet{
+    display: flex;
+    object-fit: fill;
+    margin: 100px;
+    height: 457px;
+    justify-content: center;
+}
+.filbet>div:nth-child(1){
+    width: 377px;
+    font-family: "Poppins", sans-serif;
+    background-color: white;
+    height: 350px;
+    color: #777;font-size: x-large;
+    box-shadow: 25px 25px 30px rgb(10, 0, 10, 0.5);
+}
+.filbet>div:nth-child(2){
+    background-image: url(../images/black\ kids.jpg);
+    height: 341px;
+    background-size: cover;
+    width: 375px;
+    box-shadow: 25px 25px 30px rgb(10, 0, 10, 0.5);
+}
 
